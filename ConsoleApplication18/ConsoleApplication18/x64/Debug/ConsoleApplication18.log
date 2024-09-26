@@ -1,0 +1,5 @@
+﻿  ConsoleApplication18.cpp
+C:\Users\user\Desktop\New folder\المشروع الاول\ConsoleApplication18\ConsoleApplication18\ConsoleApplication18.cpp(10,7): error C3863: array type 'char [100]' is not assignable
+C:\Users\user\Desktop\New folder\المشروع الاول\ConsoleApplication18\ConsoleApplication18\ConsoleApplication18.cpp(11,7): error C3863: array type 'char [100]' is not assignable
+C:\Users\user\Desktop\New folder\المشروع الاول\ConsoleApplication18\ConsoleApplication18\ConsoleApplication18.cpp(12,9): error C2065: 'T': undeclared identifier
+C:\Users\user\Desktop\New folder\المشروع الاول\ConsoleApplication18\ConsoleApplication18\ConsoleApplication18.cpp(14,1): error C2143: syntax error: missing ';' before '}'

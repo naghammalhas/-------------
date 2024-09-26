@@ -1,0 +1,8 @@
+﻿  ConsoleApplication9.cpp
+C:\Users\user\Desktop\New folder\المشروع الاول\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(97,13): error C3861: 'deleteCar': identifier not found
+C:\Users\user\Desktop\New folder\المشروع الاول\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(100,13): error C3861: 'updateCar': identifier not found
+C:\Users\user\Desktop\New folder\المشروع الاول\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(103,13): error C3861: 'viewAllCars': identifier not found
+C:\Users\user\Desktop\New folder\المشروع الاول\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(106,13): error C3861: 'viewCarsByPrice': identifier not found
+C:\Users\user\Desktop\New folder\المشروع الاول\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(109,13): error C3861: 'viewCarsByMake': identifier not found
+C:\Users\user\Desktop\New folder\المشروع الاول\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(112,13): error C3861: 'viewCarsByPriceSorted': identifier not found
+C:\Users\user\Desktop\New folder\المشروع الاول\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(115,13): error C3861: 'viewCarsByYearSorted': identifier not found

@@ -1,0 +1,8 @@
+﻿  ConsoleApplication12.cpp
+C:\Users\user\Desktop\New folder\المشروع الاول\ConsoleApplication12\ConsoleApplication12\ConsoleApplication12.cpp(54,5): error C2664: 'char *strcat(char *,const char *)': cannot convert argument 2 from 'char' to 'const char *'
+C:\Users\user\Desktop\New folder\المشروع الاول\ConsoleApplication12\ConsoleApplication12\ConsoleApplication12.cpp(54,20): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\string.h(91,5): message : see declaration of 'strcat'
+C:\Users\user\Desktop\New folder\المشروع الاول\ConsoleApplication12\ConsoleApplication12\ConsoleApplication12.cpp(54,5): message : while trying to match the argument list '(char *, char)'
+C:\Users\user\Desktop\New folder\المشروع الاول\ConsoleApplication12\ConsoleApplication12\ConsoleApplication12.cpp(52,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\New folder\المشروع الاول\ConsoleApplication12\ConsoleApplication12\ConsoleApplication12.cpp(53,5): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\New folder\المشروع الاول\ConsoleApplication12\ConsoleApplication12\ConsoleApplication12.cpp(55,5): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
